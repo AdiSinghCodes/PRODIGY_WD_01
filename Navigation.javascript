@@ -1,5 +1,5 @@
 
-<script>
+
     window.addEventListener('scroll', () => {
   const scrollPosition = window.scrollY || window.pageYOffset;
 
@@ -12,4 +12,4 @@
     document.body.style.backgroundColor = 'initial';
   }
 });
-</script>
+
